@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working with Tiger Analytics as Analyst - Data Science
-- 🌱 I’m currently pursuing my Masters in Artificial Intelligence and Machine Learning
+- 🌱 I’m currently pursuing my Masters in Artificial Intelligence and Machine Learning from Liverpool John Moores University
 - 💬 Ask me about Data Science and related Technologies
 - 📫 How to reach me: you can reach me out at **abhinavkumardubey9481@gmail.com** or reach me out a linkedin.
 
